@@ -1,9 +1,7 @@
-# Vaishi Sharma 
-- this is **bolded** text
-- this is _italicized_ text
-  
-## This is Homework 0
-_cs19300_
+# Vaishi's First CS193 Homework
+## my favorite things about cs19300:
+- various in-class activities
+- fun!
 
 ## Given Info 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
